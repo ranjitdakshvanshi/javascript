@@ -41,3 +41,7 @@
 //     console.log("Falsy");
 //  }
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// when we need to print array then used forEach loop and when we need to print object then used forId or forOf
+// example:-
+  
